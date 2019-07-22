@@ -10,4 +10,6 @@ The three classifers used in this code are:
 2) Support Vector Machine with Kernel= polynomial, and of second degree
 3) Random Forest
 
-The data used for training and Classification is Breast Cancer Data Set.
+The data used for training and Classification is Breast Cancer Data Set and is added to this repository under the name Data.
+
+The code is also avaialble under the name, Data1.py
